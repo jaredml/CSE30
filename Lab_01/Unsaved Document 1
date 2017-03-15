@@ -1,0 +1,6 @@
+1.How would you change the executable name from main to cselab?
+we would have to change int main() to int cselab()
+2.What happens when you compile using g++ <source> only?
+it acts normally.
+3.How can you remove the line using namespace std; from your program and get it to compile.
+you would have to use std:: in front of every cout and cin.
